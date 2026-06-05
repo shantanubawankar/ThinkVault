@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+anthropic
+pymupdf
+python-docx
+python-pptx
+python-multipart
+python-dotenv
+pydantic
+openai
